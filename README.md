@@ -63,6 +63,7 @@ Security attributes tracked include:
 - System owners and custodians
 
 ---
+# Currently in Progress
 
 ## Security Control Mapping
 
@@ -75,21 +76,6 @@ Current scope:
 - Control ownership assignments
 - Maturity scoring
 - Evidence documentation
-
----
-
-# Repository Structure
-
-C3-GRC/
-│
-├── Asset_Inventory.csv
-├── Control_Matrix_Mapping.csv
-├── Gap_Analysis.csv
-│
-└── README.md
-
-
-Each file represents a key governance artifact commonly used in security and compliance programs.
 
 ---
 
