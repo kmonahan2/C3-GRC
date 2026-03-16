@@ -78,20 +78,6 @@ Current scope:
 
 ---
 
-## Gap Analysis
-
-Conducted a high-level compliance assessment to identify security gaps.
-
-Outputs include:
-
-- Missing or partially implemented controls
-- Remediation recommendations
-- Prioritized improvements based on risk
-
-This analysis simulates the type of deliverable created during a **GRC consulting engagement or internal security audit**.
-
----
-
 # Repository Structure
 
 C3-GRC/
@@ -113,6 +99,7 @@ This project will continue expanding to simulate a more mature GRC environment.
 
 Planned additions include:
 
+- Gap Analysis
 - Risk register
 - Policy library
 - Security control testing procedures
